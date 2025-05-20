@@ -5,7 +5,7 @@ This project applies a supervised machine learning workflow to classify breast c
 The model is trained using the Breast Cancer Wisconsin dataset, with steps including data exploration, visualization, model training, and performance evaluation.
 
 ## 🎥 Video Presentation
-[Watch the short explanation video here.](https://www.youtube.com/watch?v=REPLACE_WITH_YOUR_LINK)
+[Watch the short explanation video here.](https://youtu.be/LX6lIU6JG54)
 
 ## 📁 Notebook
 The code and all steps are documented in the `Assignment2_supervised_learning_flow.ipynb` notebook, including:
